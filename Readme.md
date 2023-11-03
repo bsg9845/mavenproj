@@ -1,11 +1,4 @@
-testreadme
-
-testreadme
-testreadme
-
-testreadme
-
-change
+this is a maven proj
 
 
 
